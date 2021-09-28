@@ -15,4 +15,4 @@ To make things easier: you can copy the randomTrips.py file from the SUMO/tools 
 5. press the green play button to start the simulation
 
 ## Note
-You need to slow down the simulation as desribed above or you waon't be able to see much.
+You need to slow down the simulation as desribed above or you won't be able to see much.
