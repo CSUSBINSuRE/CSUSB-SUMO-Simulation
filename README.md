@@ -9,7 +9,7 @@ To make things easier: you can copy the randomTrips.py file from the SUMO/tools 
 
 ## How to run the simulation
 1. Open SUMO
-2. CLick file -> Open Simulation -> select the csusb.sumo.cfg file
+2. Click file -> Open Simulation -> select the csusb.sumo.cfg file
 3. Slow the simulation down by changing the delay value to 80 or desired value.
 4. There is a dropdown box that will allow you to change the backround color to green or other options
 5. press the green play button to start the simulation
