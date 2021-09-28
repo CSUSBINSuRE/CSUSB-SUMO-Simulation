@@ -1,2 +1,2 @@
-# CSUSB-SUMO-SImulation
+# CSUSB-SUMO-Simulation
 Custom SUMO Simulation CSUSB
